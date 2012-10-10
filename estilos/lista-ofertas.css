@@ -1,0 +1,34 @@
+.oferta { 
+   width: 400px;
+   margin: 10px 5px;
+   padding: 5px;
+   border-bottom: 2px orange dashed;
+}
+.oferta .preco{
+   background-color: orange;
+   color: white;
+   border: 2px white dashed;
+   float: right;
+   position: relative;
+   top: -20px;
+   padding: 3px 5px;
+   width: 50px;
+   text-align: center;
+}
+.oferta .descricao{
+   min-height: 80px;
+}
+.oferta .titulo{
+   font-size: 1.2em;
+   font-weight: bold;
+   color: orange;   
+}
+.oferta .contato{
+   text-align: right;
+}
+.oferta a{
+   font-weight: bold;
+   text-decoration: none;
+   color: orange;
+}
+
